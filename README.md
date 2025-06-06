@@ -28,9 +28,9 @@ Right-click on the folder and select “Extract All."
 
 Click "Extract."
 
-After the files are extracted there should be 2 shortcuts of the installation files on your home screen, you can put the original shortcut in the Recycle Bin. We only want to work with the files that have been extracted or unzipped.
-
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/45fcdbd4743c68e7fbdb7e93a10ae4104b62d3b4/osTicketInstall%203.png)
+
+After the files are extracted there should be 2 shortcuts of the installation files on your home screen, you can put the original shortcut in the Recycle Bin. We only want to work with the files that have been extracted or unzipped.
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/90131791f795e4a13c79270818b4fc82899ba34f/osTicketInstall%204.png)
 
