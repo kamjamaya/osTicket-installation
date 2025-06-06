@@ -2,6 +2,20 @@
 
 # osTicket Installation
 
+This tutorial outlines the installation of osTicket.
+
+# Environments and Technologies Used
+
+- Microsoft Azure Virtual Machines
+- Remote Desktop
+- Internet Information Services (IIS)
+
+  # Operating Systems Used
+
+- Windows 10 Pro V2 x64
+
+# Deployment and Configuration Steps
+
 1. Download the osTicket Installation Files
 
 2. Once they are downloaded, drag the files to the desktop 
