@@ -10,7 +10,7 @@ This tutorial outlines the installation of osTicket.
 - Remote Desktop
 - Internet Information Services (IIS)
 
-  # Operating Systems Used
+# Operating Systems Used
 
 - Windows 10 Pro V2 x64
 
