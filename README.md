@@ -34,5 +34,7 @@ After the files are extracted there should be 2 shortcuts of the installation fi
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/90131791f795e4a13c79270818b4fc82899ba34f/osTicketInstall%204.png)
 
+Next we need to enable IIS in Windows with CGI. To do that go to the start menu in the left bottom corner and type control panel in the search bar and open it. 
 
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/6db11e2a65885eeee125cc0e3ce566b610e1a954/osTicketInstall%205.png)
 
