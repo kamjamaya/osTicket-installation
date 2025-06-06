@@ -22,4 +22,8 @@ Once they are downloaded, drag the files to the desktop.
 
 ![image_alt](https://github.com/kamjamaya/osTicket-installation/blob/437a1d68c482f357fb48168e6e13930a60b4f1fe/osTicketInstall%201.png)
 
+Right-click on the folder and select “Extract All."
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/eb66329e27d0dfcce673b0539bc8730ff4fb533f/osTicketInstall%202.png)
+
 
