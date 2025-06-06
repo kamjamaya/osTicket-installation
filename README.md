@@ -16,7 +16,7 @@ This tutorial outlines the installation of osTicket.
 
 # Deployment and Configuration Steps
 
-1. Download the osTicket Installation Files (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) 
+1. Download the osTicket Installation Files ![osTicket file download](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) 
 
 2. Once they are downloaded, drag the files to the desktop 
 
