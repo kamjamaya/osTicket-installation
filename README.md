@@ -43,3 +43,5 @@ Under Programs, click “Uninstall a program.”
 On the left hand side, click on “Turn Windows features on or off.”
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/26804d297fbfe0a8c27e0d17b26c458f4247649f/osTicketInstall%206.png)
+
+
