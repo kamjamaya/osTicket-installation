@@ -1,3 +1,5 @@
+![image_alt](https://github.com/kamjamaya/osTicket-installation/blob/5b8ffcda83d48fdd945b6a29e80c08605440e04f/osTicket-logo.png)
+
 # osTicket Installation
 
 1. Download the osTicket Installation Files
