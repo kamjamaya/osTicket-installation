@@ -38,3 +38,8 @@ Next we need to enable IIS in Windows with CGI. To do that go to the start menu 
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/6db11e2a65885eeee125cc0e3ce566b610e1a954/osTicketInstall%205.png)
 
+Under Programs, click “Uninstall a program.” 
+
+On the left hand side, click on “Turn Windows features on or off.”
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/26804d297fbfe0a8c27e0d17b26c458f4247649f/osTicketInstall%206.png)
