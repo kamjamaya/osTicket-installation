@@ -49,3 +49,11 @@ Check the Internet Information Service box. Click on the "+" to expand it.
 Check the box of World Wide Web Services, expand it, check the box of Application Development Features, and then you will see the CGI box that we are looking for. Make sure to check that box as well. Click "OK' after that. 
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/dd7bbaf6f40cd1acd165f9e2db8193e501a1fcbb/osTicketInstall%207.png) 
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/e041a11c893c98b0c664f4c2b4b1a32994b8917e/osTicketInstall%208.png)
+
+Next we are going to install PHP manager for IIS.
+
+First go to the osTicket Installation files we unzipped on the desktop.
+
+![image_url](
