@@ -56,4 +56,34 @@ Next we are going to install PHP manager for IIS.
 
 First go to the osTicket Installation files we unzipped on the desktop.
 
+Double-click on "PHPManagerForIIS_V1.5.0"
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%209.png)
+
+Click next and I agree to finish installing it.
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2010.png)
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2011.png)
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2012.png)
+
+Within that same folder we are going to install the rewrite module.
+
+Click on “rewrite_amd64_en-US” to install it. Click Install on the pop-up menu that comes up for it. Click finish to finish the installation. 
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2013.png)
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2014.png)
+
+Open another window of file explorer. You can do this by right-clicking on the folder icon located on the taskbar. On the left side right click where it says “Windows (C:)
+
+Click on “New” and then “folder”.
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2015.png)
+
+Name the New Folder “PHP” and then in the osTicket Installation files folder right click the PHP folder, “php-7.3.8-nts-Win32-VC15-x86”. Click extract all. You should see this screen that asks you to select a destination and extract files. Browse to the PHP folder we made or you can simply type it in, in the space provided. 
+
 ![image_url](
+
+
