@@ -86,4 +86,10 @@ Name the New Folder “PHP” and then in the osTicket Installation files folder
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/215ec5b0aacdf5bd5fad74c9ff280569dce70495/osTicket.png)
 
+Click "Extract."
 
+Now, when you go to the PHP file in the Windows C: drive you should see all of the php files from the osTicket Installation in that folder.
+
+Next, we are going to install C++ redistributable by double clicking on the VC_redist.x86 file from the osTicket Installation file folder. 
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/fa27f8e1d780d3762b27b5e8e7cf9b823dccbf8b/osTicketInstall%2017.png)
