@@ -2,7 +2,7 @@
 
 # osTicket Installation
 
-This tutorial outlines the installation of osTicket.
+This tutorial outlines the prerequisites and installation of the open source ticketing system, osTicket.
 
 # Environments and Technologies Used
 
