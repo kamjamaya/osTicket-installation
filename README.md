@@ -84,6 +84,6 @@ Click on “New” and then “folder”.
 
 Name the New Folder “PHP” and then in the osTicket Installation files folder right click the PHP folder, “php-7.3.8-nts-Win32-VC15-x86”. Click extract all. You should see this screen that asks you to select a destination and extract files. Browse to the PHP folder we made or you can simply type it in, in the space provided. 
 
-![image_url](
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/215ec5b0aacdf5bd5fad74c9ff280569dce70495/osTicket.png)
 
 
