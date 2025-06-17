@@ -104,8 +104,36 @@ Double-click it and this screen should pop up for it. Click next.
 
  Accept the terms and click "Next."
 
- ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2021.png)
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2021.png)
 
   Click "Typical" and then "Next." 
 
-   ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2022.png)
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2022.png)
+
+ Click "Install" again. 
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/f1a80b4a05379a6c15d7f27aa756e02bc8c48603/osTicketInstall%2023.png)
+
+This screen should pop up, select "Next."
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/f1a80b4a05379a6c15d7f27aa756e02bc8c48603/osTicketInstall%2024.png)
+
+ Select "Standard Configuration" and then "Next."
+
+ ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/f1a80b4a05379a6c15d7f27aa756e02bc8c48603/osTicketInstall%2025.png)
+
+Click "Next."
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/f1a80b4a05379a6c15d7f27aa756e02bc8c48603/osTicketInstall%2026.png)
+
+Here you will create a username and password. Make sure it is something easy to remember as this lab is only for practice. 
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/f1a80b4a05379a6c15d7f27aa756e02bc8c48603/osTicketInstall%2027.png)
+
+ Click “Execute.”
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/f1a80b4a05379a6c15d7f27aa756e02bc8c48603/osTicketInstall%2028.png)
+
+Click install to finish the installation of the MySQL Server Instance.
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/f1a80b4a05379a6c15d7f27aa756e02bc8c48603/osTicketInstall%2029.png)
