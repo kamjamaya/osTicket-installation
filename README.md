@@ -85,3 +85,27 @@ Now, when you go to the PHP file in the Windows C: drive you should see all of t
 Next, we are going to install C++ redistributable by double clicking on the VC_redist.x86 file from the osTicket Installation file folder. 
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/fa27f8e1d780d3762b27b5e8e7cf9b823dccbf8b/osTicketInstall%2017.png)
+
+Check the I agree box and click install
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2018.png)
+
+Once it is done installing you will see this screen.
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2019.png)
+
+ Next, we are going to install MYSQL 5.5.62. It is in the file folder for osTicket Installation files. 
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicket%20Install%2020.png)
+
+Double-click it and this screen should pop up for it. Click next.
+
+![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2020.png)
+
+ Accept the terms and click "Next."
+
+ ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2021.png)
+
+  Click "Typical" and then "Next." 
+
+   ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/57c5e55c0e84ea2bc36cfe1fb58c3b6a2ac48b36/osTicketInstall%2022.png)
