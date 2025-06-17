@@ -39,13 +39,11 @@ Next we need to enable IIS in Windows with CGI. To do that go to the start menu 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/6db11e2a65885eeee125cc0e3ce566b610e1a954/osTicketInstall%205.png)
 
 Under Programs, click “Uninstall a program.” 
-
 On the left hand side, click on “Turn Windows features on or off.”
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/26804d297fbfe0a8c27e0d17b26c458f4247649f/osTicketInstall%206.png)
 
 Check the Internet Information Service box. Click on the "+" to expand it.
-
 Check the box of World Wide Web Services, expand it, check the box of Application Development Features, and then you will see the CGI box that we are looking for. Make sure to check that box as well. Click "OK' after that. 
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/dd7bbaf6f40cd1acd165f9e2db8193e501a1fcbb/osTicketInstall%207.png) 
@@ -53,9 +51,7 @@ Check the box of World Wide Web Services, expand it, check the box of Applicatio
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/e041a11c893c98b0c664f4c2b4b1a32994b8917e/osTicketInstall%208.png)
 
 Next we are going to install PHP manager for IIS.
-
 First go to the osTicket Installation files we unzipped on the desktop.
-
 Double-click on "PHPManagerForIIS_V1.5.0"
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%209.png)
@@ -69,7 +65,6 @@ Click next and I agree to finish installing it.
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2012.png)
 
 Within that same folder we are going to install the rewrite module.
-
 Click on “rewrite_amd64_en-US” to install it. Click Install on the pop-up menu that comes up for it. Click finish to finish the installation. 
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2013.png)
@@ -77,7 +72,6 @@ Click on “rewrite_amd64_en-US” to install it. Click Install on the pop-up me
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2014.png)
 
 Open another window of file explorer. You can do this by right-clicking on the folder icon located on the taskbar. On the left side right click where it says “Windows (C:)
-
 Click on “New” and then “folder”.
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/c159e6a98999f3130ecbd6da2702be461c808bd3/osTicketInstall%2015.png)
@@ -87,9 +81,7 @@ Name the New Folder “PHP” and then in the osTicket Installation files folder
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/215ec5b0aacdf5bd5fad74c9ff280569dce70495/osTicket.png)
 
 Click "Extract."
-
 Now, when you go to the PHP file in the Windows C: drive you should see all of the php files from the osTicket Installation in that folder.
-
 Next, we are going to install C++ redistributable by double clicking on the VC_redist.x86 file from the osTicket Installation file folder. 
 
 ![image_url](https://github.com/kamjamaya/osTicket-installation/blob/fa27f8e1d780d3762b27b5e8e7cf9b823dccbf8b/osTicketInstall%2017.png)
